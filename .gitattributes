@@ -1,1 +1,2 @@
-*.rb linguist-language=Applescript
+*.zip linguist-detectable=true
+*.zip linguist-language=Applescript
