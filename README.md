@@ -1,3 +1,5 @@
+#NOTE: THIS IS NOW NATIVE TO MACOS 12 MONTERREY#
+
 # Scheduled-Join-Zoom-Meeting
 
 This is an automated script that will prompt you to join your Zoom meeting at the meeting start time. It will then enter the necessary id and password and join. It will also quit Zoom after your meeting window closes. 
